@@ -1,5 +1,3 @@
-import axios from 'axios';
-
 const Header = (title, date, temp) => {
 
   const header = document.createElement('div');
